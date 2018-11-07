@@ -1,32 +1,39 @@
 #python{
-    width:900px;
+    width:2000px;
     height:50px;
     fill:#3572A5;
+
 }
 #java{
-    width:900px;
+    width:2000px;
     height:50px;
     fill:#b07219;
 }
 
 #html{
-    width:900px;
+    width:2000px;
     height:50px;
     fill:#e34c26;
 }
 
 #javaScript{
-    width:900px;
+    width:2000px;
     height:50px;
     fill:#f1e05a;
 }
 
 #css {
-    width: 900px;
+    width: 2000px;
     height: 50px;
     fill: #563d7c;
 }
 
 p{font-family: 'Permanent Marker', cursive;
     font-size: xx-large;
+    position: relative;
+    width: 500px;
+    height: 50px;
+    left: 35%
+
+
 }
