@@ -33,6 +33,15 @@ p{font-family: 'Permanent Marker', cursive;
     position: fixed;
     left: 15%;
     top:25%;
+    color: #131313;
+}
+
+p2{font-family: 'Permanent Marker', cursive;
+    font-size:70pt;
+    position:fixed;
+    left: 15.5%;
+    top:36%;
+    color: #d4d4d4;
 
 
 }
