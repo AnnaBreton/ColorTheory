@@ -29,11 +29,10 @@
 }
 
 p{font-family: 'Permanent Marker', cursive;
-    font-size: xx-large;
-    position: relative;
-    width: 500px;
-    height: 50px;
-    left: 35%
+    font-size:70pt;
+    position: fixed;
+    left: 15%;
+    top:25%;
 
 
 }
